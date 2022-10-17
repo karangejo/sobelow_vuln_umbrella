@@ -13,7 +13,6 @@ defmodule Vuln1 do
 
   """
   def hello(input) do
-
     String.to_atom(input)
   end
 end
